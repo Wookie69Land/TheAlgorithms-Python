@@ -291,6 +291,7 @@ where {\displaystyle \oplus } \oplus  denotes the exclusive disjunction (XOR) op
 
 ###### Source: [Wikipedia](https://en.wikipedia.org/wiki/XOR_cipher)
 
+This is also for test purpose only.
 
 [bubble-toptal]: https://www.toptal.com/developers/sorting-algorithms/bubble-sort
 [bubble-wiki]: https://en.wikipedia.org/wiki/Bubble_sort
